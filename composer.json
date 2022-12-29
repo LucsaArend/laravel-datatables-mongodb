@@ -1,0 +1,21 @@
+{
+    "name": "lucasarend/laravel-datatables-mongodb",
+    "description": "Laravel DataTables plugin to support Mongodb",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LucasArend\\DataTablesMongoDB\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Arend"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.4",
+	  "yajra/laravel-datatables-oracle": ">=10.0"
+    }
+}
