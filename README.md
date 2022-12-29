@@ -13,7 +13,7 @@ Feel free to send suggestions and improvements.
 Package is available via Composer:
 
 ```bash
-"lucasarend/laravel-datatables-mongodb": "^1.0"
+"lucasarend/laravel-datatables-mongodb": "^1.0.1"
 ```
 or run
 ```bash
